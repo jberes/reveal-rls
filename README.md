@@ -1,4 +1,5 @@
-# reveal-rls
+# Reveal Row-Level Security Webinar
+This the is code / stored procs for the Reveal Row-Level Security webinar on Feb 28, 2024.
 
 
 # Stored Procedures 
